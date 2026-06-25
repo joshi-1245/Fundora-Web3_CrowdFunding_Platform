@@ -141,6 +141,9 @@ The included PDF files capture the academic output and submission evidence for t
 - `BT26COREB004_SubmissionProof.pdf` — submission confirmation/proof.
 - `Final Year Research Paper.pdf` — research paper detailing motivation, design, and related work.
 - `PLAG FILE.pdf` — plagiarism/integrity report.
+  
+## Project Screenshot
+<img width="1002" height="508" alt="f5071cba-8ffd-4cc7-aa72-36e020116d0f" src="https://github.com/user-attachments/assets/e83a2081-62db-452e-b2b7-5f28dc3065b6" />
 
 ## License
 
