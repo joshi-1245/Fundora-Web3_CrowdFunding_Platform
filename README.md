@@ -20,7 +20,7 @@ The project is based on the research titled **"Web3 Based Decentralized Crowdfun
 - View campaigns created by the connected wallet on the Profile page.
 
 ## Project Architecture
-<img width="1021" height="609" alt="PHOTO-2026-06-25-09-41-42" src="https://github.com/user-attachments/assets/3c6cbfe9-3810-44b2-8465-adde4d0734c3" />
+<img width="1002" height="508" alt="f5071cba-8ffd-4cc7-aa72-36e020116d0f" src="https://github.com/user-attachments/assets/d9cc3175-3146-44b5-afb5-0850fb2624e9" />
 
 
 ## Technical Stack
