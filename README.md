@@ -19,6 +19,10 @@ The project is based on the research titled **"Web3 Based Decentralized Crowdfun
 - Donate ETH directly to a campaign using MetaMask.
 - View campaigns created by the connected wallet on the Profile page.
 
+## Project Architecture
+<img width="1021" height="609" alt="PHOTO-2026-06-25-09-41-42" src="https://github.com/user-attachments/assets/3c6cbfe9-3810-44b2-8465-adde4d0734c3" />
+
+
 ## Technical Stack
 
 ### Frontend
